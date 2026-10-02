@@ -1,0 +1,6 @@
+{
+  "name": "P2P WebRTC Chess",
+  "description": "Offline-capable peer-to-peer chess game via WebRTC manual signaling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
